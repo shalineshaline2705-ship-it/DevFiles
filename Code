@@ -1,0 +1,11 @@
+public Description caption()
+{
+    return "Nightly GAAP mirror (by voucher)";
+}
+
+public boolean runsImpersonated()
+{
+    return false;
+}
+
+
